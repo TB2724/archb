@@ -270,3 +270,8 @@ MIT. See [LICENSE](LICENSE) for details.
 ## Feedback
 
 Found a bug or have a feature request? Open an issue on [GitHub](https://github.com/TB2724/archb).
+
+## Privacy note: When using ChatGPT or Claude, 
+code diffs and your answers are sent to the 
+respective API provider (OpenAI or Anthropic). 
+When using Ollama, everything stays local.
